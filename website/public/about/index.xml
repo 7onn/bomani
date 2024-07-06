@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABOUT on Thiago Bomani</title><link>https://example.com/about/</link><description>Recent content in ABOUT on Thiago Bomani</description><generator>Hugo</generator><language>en-us</language><copyright>© Bomani Tattoo</copyright><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ABOUT on Thiago Bomani</title><link>https://example.com/about/</link><description>Recent content in ABOUT on Thiago Bomani</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© Bomani Tattoo</copyright><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+>>>>>>> 41689ce4dafad616bdb86b521ab4c9b8900be7ff
