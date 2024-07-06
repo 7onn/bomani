@@ -33,8 +33,8 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: bot
-          author_email: thom.blizz@gmail.com
+          author_name: 7onn
+          author_email: devbytom@gmail.com
           message: 'updating landing page'
           add: '*'
 
